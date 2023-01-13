@@ -5,3 +5,6 @@
 
 ## Step2: Display the public key
     cat ~/.ssh/[key-name]
+
+## Step3: Copy the public key to your github account setting
+    [ssh setting](https://github.com/settings/keys)
