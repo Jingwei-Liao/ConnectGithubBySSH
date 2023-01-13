@@ -8,3 +8,6 @@
 
 ## Step3: Copy the public key to your github account setting
     https://github.com/settings/keys
+
+## Step4: Test the SSH key
+    ssh -T git@github.com
